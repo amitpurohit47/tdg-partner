@@ -1,6 +1,6 @@
 # Screenshots
-![](Assets/Screenshot%20(67).png)
-![](Assets/Screenshot%20(68).png)
+![](src/Assets/Screenshot%20(67).png)
+![](src/Assets/Screenshot%20(68).png)
 
 # Getting Started with Create React App
 
